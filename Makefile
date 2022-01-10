@@ -1,4 +1,4 @@
-export tag=v1.0
+export tag=v1.1
 
 build:
 	echo "building hello-docker binary"
@@ -11,4 +11,4 @@ release: build
 
 push: release
 	echo "pushing lianyz/hello-docker"
-	docker push lianyz/hello-docker:v1.0
+	docker push lianyz/hello-docker:${tag}
