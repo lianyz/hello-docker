@@ -15,7 +15,7 @@ Started, serving at 8080
 curl http://127.0.0.1:8080
 ```
 
-运行结果如下
+测试结果如下
 ```
 Hello World from Go in minimal Docker container
 ```
