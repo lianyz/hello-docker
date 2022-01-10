@@ -21,4 +21,4 @@ Hello World from Go in minimal Docker container
 ```
 
 
-参考链接: [link](https://segmentfault.com/a/1190000000628247).
+参考链接: [创建尽可能小的Docker容器](https://segmentfault.com/a/1190000000628247)
