@@ -2,5 +2,5 @@
 mininal docker iamge
 
 ```
-docker run -it lianyz/hello-docker
+docker run -it lianyz/hello-docker:v1.0
 ```
